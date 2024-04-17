@@ -1,0 +1,17 @@
+img{
+    margin-top:30px;
+    margin-bottom: 30px;
+    width:400px;
+    height:300px;
+  
+}
+#imageControl{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+#textBox{
+  background-color:blanchedalmond;
+  padding:10px;
+  height:60px;
+}

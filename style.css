@@ -1,0 +1,64 @@
+#myName{
+    font-style:inherit;
+    margin-left:10px;
+}
+
+nav{
+    display:flex;
+    margin-top:10px;
+    background-color:blanchedalmond;
+    height: 70px;
+    align-items:center;
+    justify-content: space-between;
+  
+    
+}
+section{
+    margin-top:30px;
+    margin-left:0px;
+    margin-right:0px;
+    background-color: beige;
+}
+img{
+  margin-top:10px;  
+  height:250px;
+  width: 200px;
+  margin-left:10px;
+  margin-right:10px;
+}
+#navContainer{
+    display:flex;
+    margin-right: 10px;
+    
+}
+a{
+    margin:10px;
+    display:flex;
+    align-items:center;
+    color:black;
+}
+#container1{
+    
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap:wrap;  
+    align-items:center;
+}
+.text a{
+    display:flex;
+    flex-direction:column ;
+    justify-content:center;
+}
+#container2{
+    text-align: center;
+    text-shadow: 1cap;
+    font-style:italic;
+}
+.containerText{
+    margin-bottom:30px;
+}
+footer{
+    color:gray;
+    font-size: smaller;
+    text-align:center;
+}
