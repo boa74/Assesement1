@@ -55,10 +55,16 @@ a{
     font-style:italic;
 }
 .containerText{
-    margin-bottom:30px;
+    padding-bottom:10px;
 }
 footer{
+    padding-top:20px;
     color:gray;
     font-size: smaller;
     text-align:center;
+}
+@media screen and(min-width:100px){
+    #container1{
+        background-color: white;
+    }
 }
